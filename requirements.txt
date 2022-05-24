@@ -5,4 +5,4 @@ nltk==3.5
 gensim==3.8.3
 numpy==1.19.0
 keras==2.1.5
-tensorflow==2.2.0
+tensorflow==2.6.4
